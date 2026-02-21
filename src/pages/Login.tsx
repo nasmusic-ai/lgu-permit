@@ -26,7 +26,12 @@ export default function Login() {
   return (
     <div className="flex items-center justify-center min-h-screen bg-slate-50">
       <Card className="w-[350px]">
-        <CardHeader>
+        <CardHeader className="flex flex-col items-center gap-4">
+          <img 
+            src="https://github.com/nasmusic-ai/RAW/blob/main/LGU-logo-02.png?raw=true" 
+            alt="LGU Logo" 
+            className="h-24 w-24 rounded-full object-cover"
+          />
           <CardTitle>Login</CardTitle>
         </CardHeader>
         <CardContent>
