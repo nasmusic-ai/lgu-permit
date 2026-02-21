@@ -1,0 +1,5 @@
+{
+  "name": "LGU Business Permit Portal",
+  "description": "A comprehensive online business permit application system for Philippine local municipalities, featuring role-based access, document management, and digital permit generation.",
+  "requestFramePermissions": []
+}
